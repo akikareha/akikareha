@@ -8,3 +8,8 @@
 I love the [micro](https://micro-editor.github.io/) text editor.  
 I've crafterd many plugins for micro.  
 Visit [my unofficial plugin channel](https://github.com/akikareha/micro-unofficial-plugin-channel/) to check them out!
+
+Other tools for micro:
+
+* [micro Screenshots](https://akikareha.github.io/micro-screenshots/)
+* [micro Plugin List](https://akikareha.github.io/micro-plugin-list/)
